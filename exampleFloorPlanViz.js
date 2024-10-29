@@ -3,7 +3,7 @@ looker.plugins.visualizations.add({
     floor_plan_url: {
       type: "string",
       label: "Floor Plan Image URL",
-      default: "https://example.com/floor-plan.jpg"
+      default: "https://www.jintudesigns.com/_media/img/large/2d-floor-plan-3.jpg"
     },
     circle_radius: {
       type: "number",
